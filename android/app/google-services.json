@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "144437310976",
+    "project_id": "gizi-fit-app",
+    "storage_bucket": "gizi-fit-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144437310976:android:f5961529cde92a5f3fcae5",
+        "android_client_info": {
+          "package_name": "com.example.gizi_fit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144437310976-s8sh3egi2t933pvlgltu1ukafuuum0l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ZbWPmgL0uvJFhTUQ3kET5BEbaFo55dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144437310976-s8sh3egi2t933pvlgltu1ukafuuum0l2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144437310976-o65b4vmk0ptmq5n9ufb1pnh5h5of79fa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.giziFitApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
